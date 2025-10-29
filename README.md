@@ -13,8 +13,7 @@ It’s perfect for developers or learners exploring how to build decentralized a
 This project serves as a foundational example of **blockchain-based game data storage**, paving the way for more advanced concepts like multiplayer matches, leaderboards, and tokenized rewards.  
 
 ---
-
-<img width="1916" height="1079" alt="Screenshot 2025-10-29 135824" src="https://github.com/user-attachments/assets/82c54b4c-2117-47d7-bea5-3c425cd7c2c4" />
+<img width="1916" height="1079" alt="Screenshot 2025-10-29 135824" src="https://github.com/user-attachments/assets/9a9b6a9d-e5ed-4b77-8f69-694f5fd8e3c1" />
 
 
 ## 🎮 What It Does  
@@ -28,7 +27,7 @@ This project serves as a foundational example of **blockchain-based game data st
 
 ## ✨ Features  
 
-✅ **Decentralized Storage** — All match data lives directly on the Ethereum blockchain, not on centralized servers.  
+✅ **Decentralized Storage** — All match data lives directly on the blockchain, not on centralized servers.  
 ✅ **Player History** — Each player can access their entire game history at any time.  
 ✅ **Timestamps** — Automatically logs when each match was saved.  
 ✅ **Events** — Emits a `MatchStored` event every time new data is recorded.  
@@ -38,9 +37,9 @@ This project serves as a foundational example of **blockchain-based game data st
 
 ## 🔗 Deployed Smart Contract  
 
-**Network:** Ethereum Testnet (Sepolia or other)  
+**Network:** Celo Sepolia Testnet  
 **Contract Address:**  
-[`0x723a6aaEaf87a0d532d92F84232F0570af67c072`](https://sepolia.etherscan.io/address/0x723a6aaEaf87a0d532d92F84232F0570af67c072)  
+[`0x723a6aaEaf87a0d532d92F84232F0570af67c072`](https://celo-sepolia.blockscout.com/address/0x723a6aaEaf87a0d532d92F84232F0570af67c072)  
 
 ---
 
