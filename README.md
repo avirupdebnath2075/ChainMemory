@@ -13,8 +13,6 @@ It’s perfect for developers or learners exploring how to build decentralized a
 This project serves as a foundational example of **blockchain-based game data storage**, paving the way for more advanced concepts like multiplayer matches, leaderboards, and tokenized rewards.  
 
 ---
-<img width="1916" height="1079" alt="Screenshot 2025-10-29 135824" src="https://github.com/user-attachments/assets/9a9b6a9d-e5ed-4b77-8f69-694f5fd8e3c1" />
-
 
 ## 🎮 What It Does  
 
