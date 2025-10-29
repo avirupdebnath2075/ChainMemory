@@ -13,7 +13,8 @@ It’s perfect for developers or learners exploring how to build decentralized a
 This project serves as a foundational example of **blockchain-based game data storage**, paving the way for more advanced concepts like multiplayer matches, leaderboards, and tokenized rewards.  
 
 ---
-<img width="1916" height="1079" alt="Screenshot 2025-10-29 135824" src="https://github.com/user-attachments/assets/84bb0e02-1982-4c7f-840a-bb076cd29af2" />
+
+<img width="1916" height="1079" alt="Screenshot 2025-10-29 135824" src="https://github.com/user-attachments/assets/82c54b4c-2117-47d7-bea5-3c425cd7c2c4" />
 
 
 ## 🎮 What It Does  
@@ -37,10 +38,9 @@ This project serves as a foundational example of **blockchain-based game data st
 
 ## 🔗 Deployed Smart Contract  
 
-**Deployed at:**  
-`XXX`  
-
-(Replace `XXX` with your deployed contract address or block explorer link once live.)  
+**Network:** Ethereum Testnet (Sepolia or other)  
+**Contract Address:**  
+[`0x723a6aaEaf87a0d532d92F84232F0570af67c072`](https://sepolia.etherscan.io/address/0x723a6aaEaf87a0d532d92F84232F0570af67c072)  
 
 ---
 
@@ -48,3 +48,4 @@ This project serves as a foundational example of **blockchain-based game data st
 
 ```solidity
 //paste your code
+
