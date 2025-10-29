@@ -14,6 +14,9 @@ This project serves as a foundational example of **blockchain-based game data st
 
 ---
 
+<img width="1916" height="1079" alt="Screenshot 2025-10-29 135824" src="https://github.com/user-attachments/assets/eb59b2e5-f893-4a33-bfeb-0877638bb853" />
+
+
 ## 🎮 What It Does  
 
 - Allows players to **save their game states or match progress** permanently on the blockchain.  
